@@ -55,8 +55,11 @@
 
 ###
 
-![My Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=algolia&author=Me&quote=Accounting+taught+me+precision,+coding+made+it+powerful.&font=poppins&border_width=0)
-<br/>
+<div align="center">
+  
+  ![Daily Quote](https://readme-daily-quotes.vercel.app/api?theme=algolia&author=Me&quote=Accounting+taught+me+precision,+coding+made+it+powerful.&font=poppins&border_width=0)
+  
+</div>
 
 ###
 
