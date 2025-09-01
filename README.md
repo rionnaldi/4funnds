@@ -19,33 +19,15 @@ I am a first-semester **Accounting** student at Trisakti School of Management wi
 
 ### 💻 Tech Stack & Skills
 
-<table style="border:none;">
-  <tr>
-    <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
-      <br><strong>Solidity</strong>
-    </td>
-    <td align="center" width="50">
-      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-      <br><strong>Python</strong>
-    </td>
-        <td align="center" width="50">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="50">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br><strong>Git</strong>
-    </td>
-  </tr>
-</table>
-
 **Concepts & Ecosystem:**
 -   Smart Contract Security
 -   Decentralized Finance (DeFi)
 -   EVM (Ethereum Virtual Machine) Ecosystem
 -   Wallet Management and Security
 -   Foundry Framework
+
+| <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" /> <br> **Solidity** | <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /> <br> **Python** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /> <br> **JavaScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" /> <br> **Git** |
+|:---:|:---:|:---:|:---:|
 
 <!-- ---
 
@@ -57,24 +39,10 @@ I am a first-semester **Accounting** student at Trisakti School of Management wi
     <img src="https://nirzak-streak-stats.vercel.app/?user=rionnaldi&theme=blue_navy&hide_border=false" height="120" alt="streak graph" />
   </div> -->
 
-### 📫 Let's Connect!
+<!-- ### 📫 Let's Connect! -->
 
-<table style="border:none;">
-  <tr>
-    <td align="center" width="60">
-      <a href="https://twitter.com/rionnaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rionnaldi" height="48" width="48" /></a>
-      <br><strong>Twitter</strong>
-    </td>
-    <td align="center" width="60">
-      <a href="https://linkedin.com/in/rionaldi-lie-44ab41280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rionaldi-lie-44ab41280" height="48" width="48" /></a>
-      <br><strong>LinkedIn</strong>
-    </td>
-        <td align="center" width="60">
-      <a href="https://instagram.com/rioiriooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rioiriooo" height="48" width="48" /></a>
-      <br><strong>Instagram</strong>
-    </td>
-  </tr>
-</table>
+| <a href="https://twitter.com/rionnaldi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="48" height="48" alt="Twitter" /></a> <br> **Twitter** | <a href="https://linkedin.com/in/rionaldi-lie-44ab41280"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="48" height="48" alt="LinkedIn" /></a> <br> **LinkedIn** | <a href="https://instagram.com/rioiriooo"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="48" height="48" alt="Instagram" /></a> <br> **Instagram** |
+|:---:|:---:|:---:|
 
 ###
 
