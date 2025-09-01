@@ -19,7 +19,13 @@ I am a first-semester **Accounting** student at Trisakti School of Management wi
 
 ### 💻 Tech Stack & Skills
 
-<table>
+<style>
+  table, th, td {
+    border: none;
+  }
+</style>
+
+<table border=none>
   <tr>
     <td align="center" width="50">
       <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
