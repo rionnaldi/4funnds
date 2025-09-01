@@ -1,74 +1,87 @@
-<h2 align="left">Hi 👋! My name is Rionaldi and I'm Currently exploring the edges of AI Automation, Crypto, Airdrop, Web3, and Community Tools.</h2>
+<div align="center">
+<h1 align="center">Hi there, I'm Rionaldi👋</h1>
+<h3 align="center">An Accounting Student Bridging Traditional Finance with the World of Blockchain.</h3>
+</div>
 
-###
+### 🔭 About Me
+
+I am a first-semester **Accounting** student at Trisakti School of Management with a deep passion for the decentralized future. While my academic foundation is in finance and accounting, my curiosity has driven me to explore the technical side of the revolution: **blockchain technology**.
+
+- 🏅 During my high school years, I demonstrated a strong analytical mindset by winning **over 15 accounting competitions** at the Regency, Provincial, and National levels.
+- 💡 I am now channeling that same dedication into mastering the Web3 and EVM ecosystem.
+- 🎯 My goal is to leverage my understanding of finance to build and secure innovative decentralized applications.
+
+### 🌱 I’m Currently Focusing On
+
+- 🔐 Deepening my knowledge in **Smart Contract Security** and auditing best practices.
+- 📈 Exploring complex **Decentralized Finance (DeFi)** protocols and their economic models.
+- 🛠️ Building projects using **Solidity** and the **Foundry** framework to solidify my skills.
+
+### 💻 Tech Stack & Skills
+
+<table>
+  <tr>
+    <td align="center" width="50">
+      <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+      <br><strong>Solidity</strong>
+    </td>
+    <td align="center" width="50">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+      <br><strong>Python</strong>
+    </td>
+        <td align="center" width="50">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="50">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+  </tr>
+</table>
+
+**Concepts & Ecosystem:**
+-   Smart Contract Security
+-   Decentralized Finance (DeFi)
+-   EVM (Ethereum Virtual Machine) Ecosystem
+-   Wallet Management and Security
+-   Foundry Framework
+
+<!-- ---
+
+### 📊 My GitHub Stats
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=4funnds&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" height="120" alt="stats graph" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=4funnds&theme=blue_navy&hide_border=false" height="120" alt="streak graph" />
-  </div>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4funnds&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="120" alt="languages graph" />
-</div>
-<br/>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rionnaldi&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" height="120" alt="stats graph" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=rionnaldi&theme=blue_navy&hide_border=false" height="120" alt="streak graph" />
+  </div> -->
 
-###
+### 📫 Let's Connect!
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ4OWE2bmZjaXNmczBrZHdrcHYzeXRtcWM3ZWFhOGZ4enVmcXhoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ryKkajMOMjYCQ/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" title="React" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" title="Next.js" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5" title="HTML5" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss" title="Tailwind CSS" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3" title="CSS3" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python" title="Python" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" title="Git" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite" title="Vite" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel" title="Vercel" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress" title="WordPress" />
-</div>
-<br/>
-
-###
-
-<div align="center">
-  <a href="https://discord.com/4funnds" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/rionaldi-lie-44ab41280/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
-  </a>&nbsp;
-  <a href="https://t.me/fourfunnds" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram" />
-  </a>&nbsp;
-  <a href="https://x.com/4funnds" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter" />
-  </a>
-</div>
-<br/>
-
-###
-
-<div align="center">
-  
-  ![Daily Quote](https://readme-daily-quotes.vercel.app/api?theme=algolia&author=Me&quote=Accounting+taught+me+precision,+coding+made+it+powerful.&font=poppins&border_width=0)
-  
-</div>
+<table>
+  <tr>
+    <td align="center" width="60">
+      <a href="https://twitter.com/rionnaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rionnaldi" height="48" width="48" /></a>
+      <br><strong>Twitter</strong>
+    </td>
+    <td align="center" width="60">
+      <a href="https://linkedin.com/in/rionaldi-lie-44ab41280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rionaldi-lie-44ab41280" height="48" width="48" /></a>
+      <br><strong>LinkedIn</strong>
+    </td>
+        <td align="center" width="60">
+      <a href="https://instagram.com/rioiriooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rioiriooo" height="48" width="48" /></a>
+      <br><strong>Instagram</strong>
+    </td>
+  </tr>
+</table>
 
 ###
 
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4funnds/4funnds/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4funnds/4funnds/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/4funnds/4funnds/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rionnaldi/rionnaldi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rionnaldi/rionnaldi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rionnaldi/rionnaldi/output/pacman-contribution-graph.svg">
 </picture>
-
-###
