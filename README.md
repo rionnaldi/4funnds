@@ -19,13 +19,7 @@ I am a first-semester **Accounting** student at Trisakti School of Management wi
 
 ### 💻 Tech Stack & Skills
 
-<style>
-  table, th, td {
-    border: none;
-  }
-</style>
-
-<table border=none>
+<table style="border:none;">
   <tr>
     <td align="center" width="50">
       <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
@@ -65,7 +59,7 @@ I am a first-semester **Accounting** student at Trisakti School of Management wi
 
 ### 📫 Let's Connect!
 
-<table>
+<table style="border:none;">
   <tr>
     <td align="center" width="60">
       <a href="https://twitter.com/rionnaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rionnaldi" height="48" width="48" /></a>
